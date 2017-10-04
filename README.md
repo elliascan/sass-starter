@@ -80,7 +80,7 @@ gulp
 ```
 
 ## Additional
-Alternatively a script can be created on the **package.json** file, ammend the scripts section by replacing **"test": "echo \"Error..."** with **"start": "gulp"***
+Alternatively a script can be created on the **package.json** file, ammend the scripts section by replacing '**"test": "echo \"Error..."**' with '**"start": "gulp"**'
 
 From the terminal you can now run npm start to start the server
 ```
