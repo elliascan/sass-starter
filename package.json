@@ -1,0 +1,24 @@
+{
+  "name": "sass-starter",
+  "version": "1.0.0",
+  "description": "Boiler plate for sass projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliascan/sass-starter.git"
+  },
+  "author": "Elias Canoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliascan/sass-starter/issues"
+  },
+  "homepage": "https://github.com/elliascan/sass-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
